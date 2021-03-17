@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshoting a visible line 1`] = `
+<Line
+  stroke="grey"
+/>
+`;
+
+exports[`snapshoting an invisible line 1`] = `
+<Line
+  stroke="white"
+/>
+`;

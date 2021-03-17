@@ -1,0 +1,1 @@
+export const linksdata = ['Dimentions', 'Material Properties', 'Soil Properties', 'Surcharge Loading', 'Lateral Force Coefficients']
